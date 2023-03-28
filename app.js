@@ -66,6 +66,3 @@ const port = process.env.PORT || 3000;
 app.listen(port, function () {
     console.log("Server is up and running on the port " + port);
 });
-
-// Mailchimp API :-  e863dc01eb3a63d5854aba600391df2a-us13
-// Unique Audience ID :- 2adcfbef52
